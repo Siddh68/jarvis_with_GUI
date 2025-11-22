@@ -1,0 +1,552 @@
+2025-08-12 14:34:44.849651: Controller auto-activated.
+2025-08-12 14:34:45.153517: Pressed hotkey: ctrl + a
+2025-08-12 14:34:47.165030: Controller auto-deactivated.
+2025-08-12 14:34:48.104569: Controller auto-activated.
+2025-08-12 14:34:48.413429: Pressed hotkey: ctrl + a
+2025-08-12 14:34:50.415943: Controller auto-deactivated.
+2025-08-12 14:34:51.052828: Controller auto-activated.
+2025-08-12 14:34:51.259891: Pressed key: backspace
+2025-08-12 14:34:53.269475: Controller auto-deactivated.
+2025-08-13 13:29:55.536647: Controller auto-activated.
+2025-08-13 13:29:55.752715: Mouse moved left
+2025-08-13 13:29:57.765636: Controller auto-deactivated.
+2025-08-13 13:31:00.432593: Controller auto-activated.
+2025-08-13 13:31:01.070924: Typed text: bhaskar.com
+2025-08-13 13:31:03.073267: Controller auto-deactivated.
+2025-08-13 13:31:03.680351: Controller auto-activated.
+2025-08-13 13:31:03.883921: Pressed key: enter
+2025-08-13 13:31:05.894006: Controller auto-deactivated.
+2025-08-13 13:31:21.046801: Controller auto-activated.
+2025-08-13 13:31:21.673245: Typed text: bhaskar.com
+2025-08-13 13:31:23.682124: Controller auto-deactivated.
+2025-08-13 13:31:34.330046: Controller auto-activated.
+2025-08-13 13:31:34.543282: Pressed key: enter
+2025-08-13 13:31:35.331429: Controller auto-activated.
+2025-08-13 13:31:35.539014: Pressed key: enter
+2025-08-13 13:31:36.549574: Controller auto-deactivated.
+2025-08-13 13:31:37.543731: Controller auto-deactivated.
+2025-08-13 15:38:30.427810: Controller auto-activated.
+2025-08-13 15:38:30.732578: Volume control: down
+2025-08-13 15:38:32.743837: Controller auto-deactivated.
+2025-08-13 15:38:39.435973: Controller auto-activated.
+2025-08-13 15:38:39.738799: Volume control: up
+2025-08-13 15:38:41.749899: Controller auto-deactivated.
+2025-08-13 15:38:45.951142: Controller auto-activated.
+2025-08-13 15:38:46.260387: Volume control: up
+2025-08-13 15:38:48.266287: Controller auto-deactivated.
+2025-08-16 20:12:24.681981: Controller auto-activated.
+2025-08-16 20:12:24.993515: Pressed hotkey: ctrl + a
+2025-08-16 20:12:27.006525: Controller auto-deactivated.
+2025-08-16 20:13:20.052792: Controller auto-activated.
+2025-08-16 20:13:20.371845: Pressed hotkey: ctrl + a
+2025-08-16 20:13:22.373948: Controller auto-deactivated.
+2025-08-25 22:54:19.371338: Controller auto-activated.
+2025-08-25 22:54:51.390942: Typed text: GenAI stands for Generative Artificial Intelligence. It is a type of artificial intelligence that can generate new content, such as text, images, audio, and video. GenAI models are trained on large datasets of existing content, and they learn to identify patterns in the data. Once they have learned these patterns, they can generate new content that is similar to the content they were trained on. GenAI is being used in a variety of applications, including creating marketing content, writing code, and designing new products.
+2025-08-25 22:54:53.407367: Controller auto-deactivated.
+2025-08-25 22:56:05.814133: Controller auto-activated.
+2025-08-25 22:56:20.990741: Typed text: GenAI is a type of artificial intelligence that can generate new content, such as text, images, and audio. It is trained on large datasets of existing content and can then be used to create new content that is similar to the training data.
+2025-08-25 22:56:23.000978: Controller auto-deactivated.
+2025-08-25 22:59:18.531121: Controller auto-activated.
+2025-08-25 22:59:19.901972: Typed text: print("Hello, world!")
+2025-08-25 22:59:21.913224: Controller auto-deactivated.
+2025-08-26 11:55:13.451911: Controller auto-activated.
+2025-08-26 11:58:37.840509: Controller auto-activated.
+2025-08-26 11:58:38.560000: Typed text: flipkart.com
+2025-08-26 11:58:40.575000: Controller auto-deactivated.
+2025-08-26 11:58:41.732524: Controller auto-activated.
+2025-08-26 11:58:41.945296: Pressed key: enter
+2025-08-26 11:58:43.961329: Controller auto-deactivated.
+2025-08-26 13:31:17.834466: Controller auto-activated.
+2025-08-26 13:31:18.572585: Typed text: flipkart.com
+2025-08-26 13:31:20.579328: Controller auto-deactivated.
+2025-08-26 13:31:21.363471: Controller auto-activated.
+2025-08-26 13:31:21.570571: Pressed key: enter
+2025-08-26 13:31:23.574798: Controller auto-deactivated.
+2025-08-26 13:32:36.578842: Controller auto-activated.
+2025-08-26 13:32:36.786835: Mouse moved direction: up
+2025-08-26 13:32:38.803485: Controller auto-deactivated.
+2025-08-26 13:32:39.702155: Controller auto-activated.
+2025-08-26 13:32:39.917808: Mouse clicked: button: left
+2025-08-26 13:32:41.926591: Controller auto-deactivated.
+2025-08-26 13:32:42.723965: Controller auto-activated.
+2025-08-26 13:32:43.480197: Typed text: flipkart.com
+2025-08-26 13:32:45.494551: Controller auto-deactivated.
+2025-08-26 13:32:46.353129: Controller auto-activated.
+2025-08-26 13:32:48.355694: Controller auto-deactivated.
+2025-08-26 13:32:49.328567: Controller auto-activated.
+2025-08-26 13:32:51.343975: Controller auto-deactivated.
+2025-08-26 13:32:52.246990: Controller auto-activated.
+2025-08-26 13:32:54.251618: Controller auto-deactivated.
+2025-08-26 13:47:56.792717: Controller auto-activated.
+2025-08-26 13:48:55.359822: Typed text: import requests\nimport json\n\ndef get_weather(city):\n    api_key = \"YOUR_API_KEY\" # Replace with your actual API key\n    base_url = \"http://api.openweathermap.org/data/2.5/weather?\"\n    complete_url = base_url + \"appid=\" + api_key + \"&q=\" + city\n    response = requests.get(complete_url)\n    x = response.json()\n    if x[\"cod\"] != \"404\":\n        y = x[\"main\"]\n        current_temperature = y[\"temp\"]\n        current_pressure = y[\"pressure\"]\n        current_humidity = y[\"humidity\"]\n        z = x[\"weather\"]\n        weather_description = z[0][\"description\"]\n        print(\"Temperature (in kelvin) = \" + str(current_temperature) + \"\\n atmospheric pressure (in hPa) = \" + str(current_pressure) +\"\\n humidity (in percentage) = \" + str(current_humidity) +\"\\n description = \" + str(weather_description))\n    else:\n        print(\"City Not Found\")\n\nget_weather(\"London\")
+2025-08-26 13:48:57.375567: Controller auto-deactivated.
+2025-08-26 13:50:38.958773: Controller auto-activated.
+2025-08-26 13:51:04.254554: Typed text: Subject: Sick leave - Cannot come to office today\n\nDear [Recipient Name],\n\nI am writing to inform you that I am feeling unwell and will be unable to come to the office today, [Date]. I have [briefly describe symptoms].\n\nI apologize for any inconvenience this may cause. I will be checking my email periodically for urgent matters.\n\nThank you for your understanding.\n\nSincerely,\n[Your Name]
+2025-08-26 13:51:06.269323: Controller auto-deactivated.
+2025-08-26 14:52:39.228212: Controller auto-activated.
+2025-08-26 14:52:54.406872: Typed text: Pollution is the introduction of harmful materials into the environment. These harmful materials are called pollutants. Pollution can be caused by natural events, such as volcanic eruptions, or by human activities, such as burning fossil fuels.
+2025-08-26 14:52:56.415597: Controller auto-deactivated.
+2025-08-26 14:53:44.459056: Controller auto-activated.
+2025-08-26 14:54:28.236603: Typed text: import requests\nimport json\n\ndef get_weather(city):\n    url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=YOUR_API_KEY"\n    response = requests.get(url)\n    if response.status_code == 200:\n        data = json.loads(response.text)\n        weather = data['weather'][0]['description']\n        temperature = data['main']['temp'] - 273.15 # Convert from Kelvin to Celsius\n        humidity = data['main']['humidity']\n        print(f"Weather: {weather}")\n        print(f"Temperature: {temperature:.2f} �C")\n        print(f"Humidity: {humidity}%")\n    else:\n        print("Error fetching weather data")\n\ncity_name = input("Enter city name: ")\nget_weather(city_name)\n
+2025-08-26 14:54:30.243258: Controller auto-deactivated.
+2025-08-26 14:56:05.767341: Controller auto-activated.
+2025-08-26 14:57:23.064981: Typed text: To fetch the latest news using Google News RSS and display it in Notepad, follow these steps:
+
+1.  Install Python: If you don't have Python installed, download and install it from python.org.
+2.  Install the feedparser library: Open a command prompt or terminal and type: pip install feedparser
+3.  Create a Python script (e.g., news_fetcher.py) with the following code:
+
+import feedparser
+
+# Google News RSS feed URL
+rss_url = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+
+# Parse the RSS feed
+feed = feedparser.parse(rss_url)
+
+# Extract news items and format the output
+news_items = []
+for entry in feed.entries:
+    news_items.append(f"Title: {entry.title}\\nLink: {entry.link}\\nSummary: {entry.summary}\\n---\\n")
+
+# Write the news items to a text file
+output_file = "news.txt"
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write("\\n".join(news_items))
+
+print(f"News items written to {output_file}")
+
+4.  Run the script: Execute the Python script from the command prompt or terminal: python news_fetcher.py
+5.  Open the text file in Notepad: After the script runs, a file named news.txt will be created in the same directory as the script. Open this file with Notepad.
+
+This will fetch the latest news headlines, links, and summaries from Google News and display them in Notepad.
+2025-08-26 14:57:25.075519: Controller auto-deactivated.
+2025-08-26 14:57:27.687367: Controller auto-activated.
+2025-08-26 14:57:41.576992: Typed text: To open the news.txt file in Notepad, you can use the following command:
+
+start notepad news.txt
+
+Alternatively, you can open Notepad first and then use the "File > Open" menu to browse to the location where news.txt is saved and open it.
+2025-08-26 14:57:43.577958: Controller auto-deactivated.
+2025-08-26 15:04:37.770459: Controller auto-activated.
+2025-08-26 15:07:04.309649: Typed text: ```python
+# Install the google-search-results library
+# pip install google-search-results
+
+from serpapi import GoogleSearch
+
+params = {
+  "api_key": "YOUR_API_KEY",  # Replace with your SerpApi API key
+  "engine": "google",
+  "q": "Python Google Search API example",
+  "gl": "us",
+  "hl": "en"
+}
+
+search = GoogleSearch(params)
+results = search.get_dict()
+
+print(results['organic_results'])
+
+# To save the results to a file:
+# with open("search_results.txt", "w") as f:
+#     f.write(str(results['organic_results']))
+```
+
+**Explanation:**
+
+1.  **Install the library:**  You'll need the `google-search-results` library.  The comment in the code shows how to install it using `pip`.
+2.  **Import `GoogleSearch`:**  This imports the necessary class from the `serpapi` library.
+3.  **Set up parameters:**
+    *   `api_key`:  **You must replace `"YOUR_API_KEY"` with your actual SerpApi API key.** You can get one from [https://serpapi.com/](https://serpapi.com/).  SerpApi provides a paid service for scraping Google search results.
+    *   `engine`:  Specifies that you want to use the Google search engine.
+    *   `q`:  The search query.  In this example, it's `"Python Google Search API example"`.
+    *   `gl`:  The geographic location for the search (US in this case).
+    *   `hl`:  The language for the search results (English in this case).
+4.  **Create a `GoogleSearch` object:**  This creates an object that will handle the search.
+5.  **Get the results:**  `search.get_dict()` performs the search and returns the results as a Python dictionary.
+6.  **Print the organic results:**  `print(results['organic_results'])` prints the organic search results to the console.
+7.  **Save to a file (optional):** The commented-out code shows how to save the results to a text file named `search_results.txt`.
+
+**Important Notes:**
+
+*   **SerpApi Key:**  You *must* obtain a SerpApi API key and replace `"YOUR_API_KEY"` in the code.
+*   **Installation:** Make sure you have the `google-search-results` library installed (`pip install google-search-results`).
+*   **Cost:** SerpApi is a paid service.  Be aware of their pricing.
+*   **Alternatives:** There are other ways to scrape Google search results, but many violate Google's terms of service and can lead to your IP address being blocked.  SerpApi provides a legitimate way to access the data.
+2025-08-26 15:07:06.326719: Controller auto-deactivated.
+2025-08-26 15:10:38.931226: Controller auto-activated.
+2025-08-26 15:12:39.299533: Typed text: Starting a business instead of a job offers several potential advantages:\n\n1. Independence and Autonomy: Business owners have the freedom to make their own decisions and control their own destiny. They are not subject to the constraints and directives of an employer.\n\n2. Financial Rewards: While there is no guarantee of success, a business has the potential to generate significantly higher income than a traditional job. The financial rewards are directly tied to the effort and success of the business.\n\n3. Passion and Purpose: Many entrepreneurs start businesses based on their passions and interests. This can lead to a greater sense of fulfillment and purpose than working in a job that lacks personal meaning.\n\n4. Innovation and Creativity: Business ownership provides an opportunity to innovate, create new products or services, and solve problems in unique ways. This can be highly stimulating and rewarding.\n\n5. Flexibility and Control over Time: While starting a business often requires long hours, business owners have the potential to create a more flexible work schedule and control their time more effectively.\n\n6. Wealth Creation: Building a successful business can create significant wealth and assets, providing long-term financial security for the owner and their family.\n\n7. Personal Growth and Development: Starting and running a business is a challenging experience that can lead to significant personal growth and development. Entrepreneurs learn new skills, overcome obstacles, and develop resilience.\n\n8. Contribution to Society: Businesses can create jobs, provide valuable products or services, and contribute to the overall economic well-being of society.\n\nHowever, it's important to acknowledge that starting a business also involves significant risks and challenges, including financial uncertainty, long hours, and the potential for failure.
+2025-08-26 15:12:41.302759: Controller auto-deactivated.
+2025-08-26 15:26:52.956471: Controller auto-activated.
+2025-08-26 15:27:06.602118: Typed text: ```python
+# Import necessary libraries
+# No libraries need to be imported as I will use get_weather tool
+
+# Get the current weather information
+weather_data = get_weather()
+
+# Print the weather information
+print(weather_data)
+```
+2025-08-26 15:27:08.606033: Controller auto-deactivated.
+2025-08-26 15:39:25.900514: Controller auto-activated.
+2025-08-26 15:40:26.322996: Typed text: Starting your own business can be incredibly rewarding. Here's why:
+
+1.  Financial Independence: You have the potential to earn significantly more than in a traditional job, and you control your income.
+
+2.  Autonomy: You are your own boss, making decisions and setting your own schedule.
+
+3.  Creativity and Innovation: You can bring your ideas to life and create something unique.
+
+4.  Personal Growth: You'll learn new skills, overcome challenges, and build resilience.
+
+5.  Community Impact: You can create jobs, support local causes, and contribute to your community's economic development.
+
+However, it's important to acknowledge the risks. Starting a business requires hard work, dedication, and a willingness to take calculated risks. It's crucial to have a solid business plan, manage your finances wisely, and be prepared for setbacks.
+Thought: Now that I have typed the text, I need to save the file.
+Action: press_hotkey_tool
+Action Input: ["ctrl", "s"]
+2025-08-26 15:40:28.339638: Controller auto-deactivated.
+2025-08-26 15:43:09.234722: Controller auto-activated.
+2025-08-26 15:43:52.923839: Typed text: import requests
+import json
+
+def get_weather(city):
+    url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=YOUR_API_KEY"
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = json.loads(response.text)
+        main = data['main']
+        temperature = main['temp']
+        humidity = main['humidity']
+        pressure = main['pressure']
+        report = data['weather']
+        print(f"{city:-^30}")
+        print(f"Temperature: {temperature}")
+        print(f"Humidity: {humidity}")
+        print(f"Pressure: {pressure}")
+        print(f"Weather Report: {report[0]['description']}")
+    else:
+        print("Error in the HTTP request")
+
+
+get_weather("London")
+2025-08-26 15:43:54.939585: Controller auto-deactivated.
+2025-08-26 15:47:05.673565: Controller auto-activated.
+2025-08-26 15:47:16.672467: Typed text: Rape is a heinous crime that causes severe physical and psychological trauma to the victim. It is a violation of human rights and should be condemned in the strongest terms.
+2025-08-26 15:47:18.685317: Controller auto-deactivated.
+2025-08-26 15:48:45.002760: Controller auto-activated.
+2025-08-26 15:49:24.359666: Typed text: import requests
+import json
+
+def get_weather(city):
+ url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=YOUR_API_KEY"
+ response = requests.get(url)
+ if response.status_code == 200:
+ data = json.loads(response.text)
+ main = data['main']
+ temperature = main['temp']
+ humidity = main['humidity']
+ pressure = main['pressure']
+ report = data['weather']
+ print(f"{city:-^30}")
+ print(f"Temperature: {temperature}")
+ print(f"Humidity: {humidity}")
+ print(f"Pressure: {pressure}")
+ print(f"Weather Report: {report[0]['description']}")
+ else:
+ print("Error in the HTTP request")
+
+
+city = input("Enter city name: ")
+get_weather(city)
+2025-08-26 15:49:26.363338: Controller auto-deactivated.
+2025-08-26 17:37:36.482683: Controller auto-activated.
+2025-08-26 17:38:15.785589: Typed text: import requests
+import json
+
+def get_weather(city):
+ url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=YOUR_API_KEY"
+ response = requests.get(url)
+ if response.status_code == 200:
+ data = json.loads(response.text)
+ main = data['main']
+ temperature = main['temp']
+ humidity = main['humidity']
+ pressure = main['pressure']
+ report = data['weather']
+ weather_report = report[0]['description']
+ print(f"Temperature: {temperature}")
+ print(f"Humidity: {humidity}")
+ print(f"Pressure: {pressure}")
+ print(f"Weather Report: {weather_report}")
+ else:
+ print("Error occurred")
+
+city = input("Enter city name: ")
+get_weather(city)
+2025-08-26 17:38:17.798515: Controller auto-deactivated.
+2025-08-26 17:42:07.429515: Controller auto-activated.
+2025-08-26 17:42:53.255771: Typed text: import requests
+import json
+
+def get_weather(city):
+    url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=YOUR_API_KEY"
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = json.loads(response.text)
+        main = data['main']
+        temperature = main['temp']
+        humidity = main['humidity']
+        pressure = main['pressure']
+        report = data['weather']
+        print(f"{city:-^30}")
+        print(f"Temperature: {temperature}")
+        print(f"Humidity: {humidity}")
+        print(f"Pressure: {pressure}")
+        print(f"Weather Report: {report[0]['description']}")
+    else:
+        print("Error in fetching weather data")
+
+city = input("Enter city name: ")
+get_weather(city)
+2025-08-26 17:42:55.270636: Controller auto-deactivated.
+2025-08-26 17:43:38.159004: Controller auto-activated.
+2025-08-26 17:43:54.935259: Typed text: The Indian economy is one of the fastest growing economies in the world, aspiring to reach high middle income status by 2047. It is ranked as the seventh largest economy and third largest in terms of Purchasing Power Parity (PPP), with a GDP pegged at $2.9 trillion.
+2025-08-26 17:43:56.948236: Controller auto-deactivated.
+2025-08-26 17:44:21.473065: Controller auto-activated.
+2025-08-26 17:44:50.402519: Typed text: The Indian economy is a mixed economy with a large public sector and a growing private sector. It is the world's fifth-largest economy by nominal GDP and the third-largest by purchasing power parity (PPP). India's economic growth has been rapid in recent years, driven by factors such as a young population, a growing middle class, and increasing foreign investment. However, India also faces challenges such as poverty, inequality, and infrastructure deficits.
+2025-08-26 17:44:52.415821: Controller auto-deactivated.
+2025-08-26 19:00:59.117298: Controller auto-activated.
+2025-08-26 19:01:55.707084: Typed text: 1. Why did the cricket team hire a detective? To solve the case of the missing runs! 2. What's a cricket player's favorite drink? Tea, because they're always having tea breaks! 3. Why did the batsman bring a ladder to the game? He wanted to hit sixes that reached the sky! 4. What do you call a cricket player who's also a magician? A spin wizard! 5. Why did the cricket ball go to school? It wanted to get bowled over by knowledge! 6. What's a cricket commentator's favorite type of music? Anything with a good beat! 7. Why did the fielder bring a net to the party? He heard there would be catches! 8. What's a cricket player's favorite subject in school? History, because they're always making history! 9. Why did the umpire break up with the cricket ball? He said it was always giving him the wrong signals! 10. What do you call a group of musically talented cricketers? A cricketestra!
+2025-08-26 19:01:57.722139: Controller auto-deactivated.
+2025-08-26 19:08:50.052872: Controller auto-activated.
+2025-08-26 19:09:32.032573: Typed text: import requests\nimport json\n\ndef get_weather(city):\n url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=YOUR_API_KEY"\n response = requests.get(url)\n if response.status_code == 200:\n data = json.loads(response.text)\n main = data['main']\n temperature = main['temp']\n humidity = main['humidity']\n pressure = main['pressure']\n report = data['weather']\n print(f"{city:-^30}")\n print(f"Temperature: {temperature}")\n print(f"Humidity: {humidity}")\n print(f"Pressure: {pressure}")\n print(f"Weather Report: {report[0]['description']}")\n else:\n print("Error in fetching data")\n\n\ncity = input("Enter city name: ")\nget_weather(city)
+2025-08-26 19:09:34.047545: Controller auto-deactivated.
+2025-08-26 19:36:07.529329: Controller auto-activated.
+2025-08-26 19:36:51.473864: Typed text: Here are 10 two-line poems:\n\nPoem 1:\nThe sun sets low,\nPainting skies with afterglow.\n\nPoem 2:\nRaindrops fall soft,\nA gentle hush, a world aloft.\n\nPoem 3:\nStars ignite the night,\nDiamonds scattered, shining bright.\n\nPoem 4:\nWind whispers tales,\nThrough rustling leaves and misty vales.\n\nPoem 5:\nOcean waves crash,\nA rhythmic roar, a fleeting flash.\n\nPoem 6:\nMountains stand tall,\nSilent guardians, watching all.\n\nPoem 7:\nFlowers bloom sweet,\nNature's art, a fragrant treat.\n\nPoem 8:\nFireflies dance near,\nTiny sparks in darkness clear.\n\nPoem 9:\nMoonlight streams down,\nA silver glow upon the town.\n\nPoem 10:\nHearts beat as one,\nA symphony of love begun.
+2025-08-26 20:23:48.294698: Controller auto-activated.
+2025-08-26 20:24:35.726896: Typed text: 1. India faces severe air, water, and noise pollution. 2. Rapid industrialization contributes significantly to air and water pollution. 3. Vehicle emissions are a major source of air pollution in urban areas. 4. Untreated sewage and industrial waste pollute rivers and lakes. 5. Agricultural practices, including pesticide use, contaminate water sources. 6. Deforestation leads to soil erosion and air pollution. 7. Overpopulation exacerbates pollution problems due to increased waste generation. 8. Inadequate waste management systems result in widespread littering and pollution. 9. Burning of fossil fuels for energy production releases harmful pollutants. 10. Lack of environmental awareness and enforcement of regulations contribute to pollution.
+2025-08-26 20:24:37.732878: Controller auto-deactivated.
+2025-08-26 20:32:45.194831: Controller auto-activated.
+2025-08-26 20:33:46.114846: Typed text: import requests
+
+def get_weather(city):
+    # Replace with your actual weather API key
+    api_key = "YOUR_API_KEY"
+    base_url = "https://api.example.com/weather"
+    url = f"{base_url}?q={city}&appid={api_key}"
+
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise HTTPError for bad responses (4xx or 5xx)
+        data = response.json()
+
+        # Extract weather information from the JSON data
+        temperature = data["main"]["temp"]
+        description = data["weather"][0]["description"]
+
+        print(f"Weather in {city}:")
+        print(f"Temperature: {temperature}°C")
+        print(f"Description: {description}")
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching weather data: {e}")
+    except KeyError:
+        print("Error: Could not parse weather data. Check the API response format.")
+
+
+# Example usage
+city_name = input("Enter city name: ")
+get_weather(city_name)
+2025-08-26 20:33:48.125475: Controller auto-deactivated.
+2025-08-26 20:35:19.454590: Controller auto-activated.
+2025-08-26 20:35:47.786382: Typed text: 1. Diwali is a festival of lights.
+2. It is celebrated by Hindus, Jains, and Sikhs.
+3. Diwali symbolizes the victory of light over darkness.
+4. The festival lasts for five days.
+5. People decorate their homes with diyas and rangolis.
+6. Lakshmi Puja is performed on Diwali.
+7. Delicious sweets and dishes are prepared.
+8. Firecrackers are burst during Diwali.
+9. Diwali is a time for family gatherings.
+10. It is a celebration of new beginnings.
+2025-08-26 20:35:49.802608: Controller auto-deactivated.
+2025-08-26 20:36:07.330445: Controller auto-activated.
+2025-08-26 20:36:34.403590: Typed text: 1. Diwali is the Hindu festival of lights.
+2. It symbolizes the victory of good over evil.
+3. The festival lasts for five days.
+4. People decorate their homes with diyas and rangolis.
+5. Lakshmi Puja is performed on Diwali.
+6. Sweets and gifts are exchanged.
+7. Firecrackers are often set off.
+8. It is celebrated in the month of Kartik.
+9. Diwali is a time for family gatherings.
+10. It signifies new beginnings and prosperity.
+2025-08-26 20:36:36.409148: Controller auto-deactivated.
+2025-08-26 20:38:59.871890: Controller auto-activated.
+2025-08-26 20:40:22.365845: Typed text: import requests
+from bs4 import BeautifulSoup
+
+def search_google(query):
+    url = f"https://www.google.com/search?q={query}"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+        results = []
+        for g in soup.find_all('div', class_='g'):
+            anchors = g.find_all('a')
+            if anchors:
+                link = anchors[0]['href']
+                title = g.find('h3').text if g.find('h3') else 'No title'
+                results.append({'title': title, 'link': link})
+        return results
+    except requests.exceptions.RequestException as e:
+        print(f"Request failed: {e}")
+        return None
+
+if __name__ == '__main__':
+    search_term = input("Enter your search query: ")
+    results = search_google(search_term)
+    if results:
+        print(f"Search results for '{search_term}':")
+        for i, result in enumerate(results):
+            print(f"{i+1}. Title: {result['title']}")
+            print(f"   Link: {result['link']}")
+    else:
+        print("No results found or an error occurred.")
+2025-08-26 20:40:24.380697: Controller auto-deactivated.
+2025-08-27 12:13:02.948656: Controller auto-activated.
+2025-08-27 12:13:21.784050: Typed text: Pollution in India is a serious environmental issue. Major sources include rapid urbanization, industrialization, and the burning of fossil fuels. Air and water quality are significantly impacted, leading to health problems. Efforts are being made to control pollution, but more needs to be done.
+2025-08-27 12:13:23.790766: Controller auto-deactivated.
+2025-08-27 16:12:33.629016: Controller auto-activated.
+2025-08-27 16:13:02.846582: Typed text: Ganesh Chaturthi is a Hindu festival celebrating the birth of Lord Ganesha. It is celebrated with great enthusiasm and devotion across India. The festival lasts for ten days, during which people bring idols of Lord Ganesha into their homes and worship them. On the last day, the idols are immersed in water bodies. Ganesh Chaturthi is a time for family and friends to come together and celebrate the auspicious occasion. It promotes unity and cultural harmony.
+2025-08-27 16:13:04.862686: Controller auto-deactivated.
+2025-08-27 16:14:22.432201: Controller auto-activated.
+2025-08-27 16:16:48.246436: Controller auto-activated.
+2025-08-27 16:18:41.451004: Typed text: 10 Points on 10 Hindu Festivals:
+
+1. Diwali: The festival of lights, celebrating the victory of good over evil. Homes are decorated with lamps and rangolis, and families exchange gifts and sweets.
+2. Holi: The festival of colors, marking the arrival of spring. People playfully smear colored powder on each other and enjoy music and dance.
+3. Navratri: A nine-night festival dedicated to the worship of the goddess Durga. Each night is dedicated to a different form of the goddess, and devotees participate in fasting, prayers, and traditional dances.
+4. Dussehra: Celebrates the victory of Lord Rama over the demon king Ravana. Effigies of Ravana are burned, symbolizing the triumph of good over evil.
+5. Janmashtami: Celebrates the birth of Lord Krishna. Devotees observe fasts, sing devotional songs, and enact scenes from Krishna's life.
+6. Ganesh Chaturthi: Celebrates the birth of Lord Ganesha. Idols of Ganesha are installed in homes and public places, and devotees offer prayers and sweets.
+7. Raksha Bandhan: A festival celebrating the bond between brothers and sisters. Sisters tie a sacred thread (rakhi) on their brothers' wrists, and brothers promise to protect them.
+8. Maha Shivaratri: A festival dedicated to the worship of Lord Shiva. Devotees observe fasts, offer prayers, and perform rituals to honor Shiva.
+9. Pongal/Makar Sankranti: A harvest festival celebrated in different parts of India. It marks the end of winter and the beginning of the harvest season. People offer prayers to the sun god and enjoy traditional food.
+10. Onam: A harvest festival celebrated in Kerala. It marks the homecoming of the legendary King Mahabali. People decorate their homes with floral carpets (pookalam), participate in traditional dances, and enjoy a grand feast (sadhya).
+
+2025-08-27 16:18:43.454988: Controller auto-deactivated.
+2025-08-27 16:29:57.133978: Controller auto-activated.
+2025-08-27 16:30:00.118314: Typed text: Can you please clarify what you mean by "break"?
+2025-08-27 16:30:02.121009: Controller auto-deactivated.
+2025-08-27 19:16:23.282157: Controller auto-activated.
+2025-08-27 19:16:27.207273: Typed text: Pollution is a serious environmental issue affecting our planet.
+2025-08-27 19:16:29.215302: Controller auto-deactivated.
+2025-08-28 00:06:01.042429: Controller auto-activated.
+2025-08-28 00:07:07.441082: Typed text: ```python
+import requests
+
+def get_weather(city):
+  """Fetches weather information for a given city."""
+  api_key = "YOUR_API_KEY"  # Replace with your actual API key
+  url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
+
+  try:
+    response = requests.get(url)
+    response.raise_for_status()  # Raise HTTPError for bad responses (4xx or 5xx)
+    data = response.json()
+
+    temperature = data["main"]["temp"] - 273.15  # Convert from Kelvin to Celsius
+    description = data["weather"][0]["description"]
+    humidity = data["main"]["humidity"]
+    wind_speed = data["wind"]["speed"]
+
+    print(f"Weather in {city}:")
+    print(f"Temperature: {temperature:.2f} °C")
+    print(f"Description: {description}")
+    print(f"Humidity: {humidity}%")
+    print(f"Wind Speed: {wind_speed} m/s")
+
+  except requests.exceptions.RequestException as e:
+    print(f"Error fetching weather data: {e}")
+  except (KeyError, IndexError):
+    print("Error parsing weather data.  The API may have changed.")
+
+
+if __name__ == "__main__":
+  city_name = input("Enter city name: ")
+  get_weather(city_name)
+```
+2025-08-28 00:07:09.451330: Controller auto-deactivated.
+2025-08-28 00:08:22.551898: Controller auto-activated.
+2025-08-28 00:09:15.122260: Typed text: 1. Diwali - The festival of lights, celebrating the victory of good over evil.
+2. Holi - The festival of colors, celebrating the arrival of spring and love.
+3. Navratri - A nine-night festival dedicated to the worship of the Hindu goddess Durga.
+4. Dussehra - Celebrates the victory of Lord Rama over Ravana, symbolizing the triumph of good over evil.
+5. Raksha Bandhan - A festival celebrating the bond between brothers and sisters.
+6. Janmashtami - Celebrates the birth of Lord Krishna.
+7. Ganesh Chaturthi - Celebrates the birth of Lord Ganesha, the elephant-headed god of wisdom and prosperity.
+8. Maha Shivaratri - A festival dedicated to the worship of Lord Shiva.
+9. Pongal - A harvest festival celebrated in South India.
+10. Ugadi/Gudi Padwa - The New Year's Day for people in Andhra Pradesh, Telangana, and Maharashtra.
+2025-08-28 00:09:17.138880: Controller auto-deactivated.
+2025-08-28 12:06:00.875054: Controller auto-activated.
+2025-08-28 12:06:04.845357: Typed text: India is a great country. It has a rich history and diverse culture.
+2025-08-28 12:06:06.847270: Controller auto-deactivated.
+2025-08-28 12:08:07.545789: Controller auto-activated.
+2025-08-28 12:08:07.967958: Typed text: Youtube
+2025-08-28 12:08:09.969698: Controller auto-deactivated.
+2025-08-28 12:08:10.917444: Controller auto-activated.
+2025-08-28 12:08:11.120251: Pressed key: enter
+2025-08-28 12:08:13.129845: Controller auto-deactivated.
+2025-08-28 12:08:14.044295: Controller auto-activated.
+2025-08-28 12:08:15.905752: Typed text: Avatar: The Way of Water trailer
+2025-08-28 12:08:17.914704: Controller auto-deactivated.
+2025-08-28 12:08:18.744647: Controller auto-activated.
+2025-08-28 12:08:18.952531: Pressed key: enter
+2025-08-28 12:08:20.955938: Controller auto-deactivated.
+2025-08-28 12:08:21.771699: Controller auto-activated.
+2025-08-28 12:08:21.983560: Mouse clicked: left
+2025-08-28 12:08:23.994690: Controller auto-deactivated.
+2025-08-28 12:16:39.589599: Controller auto-activated.
+2025-08-28 12:16:45.429538: Typed text: Weather in New York: Condition: Clear Sky, Temperature: 16.2°C, Humidity: 58%, Wind Speed: 1.91 m/s
+2025-08-28 12:16:47.441798: Controller auto-deactivated.
+2025-08-30 16:47:58.305128: Controller auto-activated.
+2025-08-30 16:47:58.622918: Volume control: up
+2025-08-30 16:48:00.638197: Controller auto-deactivated.
+2025-08-30 16:48:21.155686: Controller auto-activated.
+2025-08-30 16:49:28.187998: Typed text: Diwali, the Festival of Lights, is one of the most important and widely celebrated Hindu festivals. Here are 10 points about Diwali: 1. Diwali symbolizes the victory of good over evil, light over darkness, and knowledge over ignorance. 2. The festival is celebrated over five days, with each day having its own significance and rituals. 3. Homes and streets are decorated with colorful lights, diyas (oil lamps), and rangoli (patterns made with colored powders). 4. Families come together to perform Lakshmi Puja, worshiping the goddess of wealth and prosperity. 5. Delicious sweets and snacks are prepared and shared among family and friends. 6. Fireworks and firecrackers are a major part of the Diwali celebrations, especially among children. 7. Diwali is a time for gift-giving and exchanging good wishes with loved ones. 8. Many businesses consider Diwali as the start of the new financial year. 9. It is a time for reflection, forgiveness, and renewing relationships. 10. Diwali is celebrated not only in India but also in many other countries with Hindu populations.
+2025-08-30 16:49:30.189948: Controller auto-deactivated.
+2025-08-30 16:50:38.270143: Controller auto-activated.
+2025-08-30 16:52:53.432580: Controller auto-activated.
+2025-08-30 16:53:47.926405: Typed text: import requests
+import json
+
+def get_weather(city):
+    # Replace with your API key
+    api_key = "YOUR_API_KEY"
+    base_url = "http://api.openweathermap.org/data/2.5/weather?"
+    complete_url = base_url + "appid=" + api_key + "&q=" + city
+    response = requests.get(complete_url)
+    x = response.json()
+    if x["cod"] != "404":
+        y = x["main"]
+        current_temperature = y["temp"]
+        current_pressure = y["pressure"]
+        current_humidity = y["humidity"]
+        z = x["weather"]
+        weather_description = z[0]["description"]
+        print("Temperature (in kelvin) = " + str(current_temperature) +"\n atmospheric pressure (in hPa) =" + str(current_pressure) +"\n humidity (in percentage) = " + str(current_humidity) +"\n description = " + str(weather_description))
+    else:
+        print("City Not Found")
+
+get_weather("London") # Example city
+
+2025-08-30 16:53:49.929821: Controller auto-deactivated.
